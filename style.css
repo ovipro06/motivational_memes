@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 3rem;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: whitesmoke;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+}
+.motivational_img{
+    border: 5px solid white;
+    width: 100%;
+}
